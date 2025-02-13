@@ -148,3 +148,4 @@ pytest tests/
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
 >>>>>>> b14ae7a (projeto_com_frameworks)
+
